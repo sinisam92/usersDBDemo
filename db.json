@@ -1,13 +1,48 @@
 {
-    "users": [
-        {"id": 1, "username": "Sinisa","email": "sinisa@example.com", "password": "sinisa12345"},
-        {"id": 2, "username": "Milan", "email": "milan@example.com", "password": "milan12345"},
-        {"id": 3, "username": "Brane", "email": "brane@example.com", "password": "brane12345"},
-        {"id": 4, "username": "Zora", "email": "zora@example.com", "password": "zora12345"},
-        {"id": 5, "username": "Djordje", "email": "djordje@example.com", "password": "djordje12345"},
-        {"id": 6, "username": "Petar", "email": "petar@example.com", "password": "petar12345"},
-        {"id": 7, "username": "John", "email": "john@example.com", "password": "john12345"},
-        {"id": 8, "username": "Serena", "email": "serena@example.com", "password": "serena12345"},
-        {"id": 9, "username": "Smith", "email": "smith@example.com", "password": "smith12345"}
-    ]
+	"users": [
+		{"id": 1, "username": "Sinisa","email": "sinisa@example.com", "password": "sinisa12345"},
+		{"id": 2, "username": "Milan", "email": "milan@example.com", "password": "milan12345"},
+		{"id": 3, "username": "Brane", "email": "brane@example.com", "password": "brane12345"},
+		{"id": 4, "username": "Zora", "email": "zora@example.com", "password": "zora12345"},
+		{"id": 5, "username": "Djordje", "email": "djordje@example.com", "password": "djordje12345"},
+		{"id": 6, "username": "Petar", "email": "petar@example.com", "password": "petar12345"},
+		{"id": 7, "username": "John", "email": "john@example.com", "password": "john12345"},
+		{"id": 8, "username": "Serena", "email": "serena@example.com", "password": "serena12345"},
+		{"id": 9, "username": "Smith", "email": "smith@example.com", "password": "smith12345"}
+	],
+	"categories": [
+		{"id": 1, "name": "Racunari", "validFrom": "13/05/2019", 
+			"products": [
+				{ "id": 1, "name": "Intel i3", "validFrom": "13/05/2019", "quantity": 10, "price": 45000},
+				{ "id": 2, "name": "Intel i5", "validFrom": "13/05/2019", "quantity": 20, "price": 55000},
+				{ "id": 3, "name": "Intel i7", "validFrom": "13/05/2019", "quantity": 15, "price": 65000},
+				{ "id": 4, "name": "AMD Ryzen", "validFrom": "13/05/2019", "quantity": 13, "price": 75000},
+				{ "id": 5, "name": "AMD Ryzen 5", "validFrom": "13/05/2019", "quantity": 17, "price": 85000}
+			]},
+		{"id": 1, "name": "Graficke kartice", "validFrom": "13/05/2019", 
+			"products": [
+				{ "id": 1, "name": "GeForce GTX1050", "validFrom": "13/05/2019", "quantity": 10, "price": 40000},
+				{ "id": 2, "name": "GeForce GTX1050 Ti", "validFrom": "13/05/2019", "quantity": 10, "price": 50000},
+				{ "id": 3, "name": "AMD Radeon RX VEGA 56", "validFrom": "13/05/2019", "quantity": 7, "price": 56000},
+				{ "id": 4, "name": "AMD Radeon RX 590", "validFrom": "13/05/2019", "quantity": 4, "price": 88000},
+				{ "id": 5, "name": "GeForce RTX2080", "validFrom": "13/05/2019", "quantity": 3, "price": 120000}
+			]},
+		{"id": 1, "name": "Monitori", "validFrom": "13/05/2019", 
+			"products": [
+				{ "id": 1, "name": "LG 27U", "validFrom": "13/05/2019", "quantity": 6, "price": 76500},
+				{ "id": 2, "name": "HP Envy", "validFrom": "13/05/2019", "quantity": 7, "price": 110000},
+				{ "id": 3, "name": "Lenovo P32", "validFrom": "13/05/2019", "quantity": 13, "price": 138600},
+				{ "id": 4, "name": "Asus PG348", "validFrom": "13/05/2019", "quantity": 15, "price": 142990},
+				{ "id": 5, "name": "BenQ PV32", "validFrom": "13/05/2019", "quantity": 10, "price": 145990}
+			]},
+		{"id": 1, "name": "Slusalice", "validFrom": "13/05/2019", 
+			"products": [
+				{ "id": 1, "name": "HyperX Cloud", "validFrom": "13/05/2019", "quantity": 45, "price": 25000},
+				{ "id": 2, "name": "Sony WH-H900", "validFrom": "13/05/2019", "quantity": 40, "price": 32000},
+				{ "id": 3, "name": "Audio-technica", "validFrom": "13/05/2019", "quantity": 30, "price": 41000},
+				{ "id": 4, "name": "AKG N90Q", "validFrom": "13/05/2019", "quantity": 4, "price": 147990},
+				{ "id": 5, "name": "Sony MDZR1R", "validFrom": "13/05/2019", "quantity": 3, "price": 300000}
+			]}
+	]
+
 }
