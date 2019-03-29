@@ -19,7 +19,7 @@
 				{ "id": 4, "name": "AMD Ryzen", "validFrom": "13/05/2019", "quantity": 13, "price": 75000},
 				{ "id": 5, "name": "AMD Ryzen 5", "validFrom": "13/05/2019", "quantity": 17, "price": 85000}
 			]},
-		{"id": 1, "name": "Graficke kartice", "validFrom": "13/05/2019", 
+		{"id": 2, "name": "Graficke kartice", "validFrom": "13/05/2019", 
 			"products": [
 				{ "id": 1, "name": "GeForce GTX1050", "validFrom": "13/05/2019", "quantity": 10, "price": 40000},
 				{ "id": 2, "name": "GeForce GTX1050 Ti", "validFrom": "13/05/2019", "quantity": 10, "price": 50000},
@@ -27,7 +27,7 @@
 				{ "id": 4, "name": "AMD Radeon RX 590", "validFrom": "13/05/2019", "quantity": 4, "price": 88000},
 				{ "id": 5, "name": "GeForce RTX2080", "validFrom": "13/05/2019", "quantity": 3, "price": 120000}
 			]},
-		{"id": 1, "name": "Monitori", "validFrom": "13/05/2019", 
+		{"id": 3, "name": "Monitori", "validFrom": "13/05/2019", 
 			"products": [
 				{ "id": 1, "name": "LG 27U", "validFrom": "13/05/2019", "quantity": 6, "price": 76500},
 				{ "id": 2, "name": "HP Envy", "validFrom": "13/05/2019", "quantity": 7, "price": 110000},
@@ -35,7 +35,7 @@
 				{ "id": 4, "name": "Asus PG348", "validFrom": "13/05/2019", "quantity": 15, "price": 142990},
 				{ "id": 5, "name": "BenQ PV32", "validFrom": "13/05/2019", "quantity": 10, "price": 145990}
 			]},
-		{"id": 1, "name": "Slusalice", "validFrom": "13/05/2019", 
+		{"id": 4, "name": "Slusalice", "validFrom": "13/05/2019", 
 			"products": [
 				{ "id": 1, "name": "HyperX Cloud", "validFrom": "13/05/2019", "quantity": 45, "price": 25000},
 				{ "id": 2, "name": "Sony WH-H900", "validFrom": "13/05/2019", "quantity": 40, "price": 32000},
