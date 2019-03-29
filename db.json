@@ -1,0 +1,13 @@
+{
+    "users": [
+        {"id": 1, "username": "Sinisa","email": "sinisa@example.com", "password": "sinisa12345"},
+        {"id": 2, "username": "Milan", "email": "milan@example.com", "password": "milan12345"},
+        {"id": 3, "username": "Brane", "email": "brane@example.com", "password": "brane12345"},
+        {"id": 4, "username": "Zora", "email": "zora@example.com", "password": "zora12345"},
+        {"id": 5, "username": "Djordje", "email": "djordje@example.com", "password": "djordje12345"},
+        {"id": 6, "username": "Petar", "email": "petar@example.com", "password": "petar12345"},
+        {"id": 7, "username": "John", "email": "john@example.com", "password": "john12345"},
+        {"id": 8, "username": "Serena", "email": "serena@example.com", "password": "serena12345"},
+        {"id": 9, "username": "Smith", "email": "smith@example.com", "password": "smith12345"}
+    ]
+}
