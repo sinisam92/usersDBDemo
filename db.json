@@ -1,11 +1,11 @@
 {
 	"users": [
-		{	"id": 1, "username": "Sinisa","email": "sinisa@example.com", "password": "sinisa12345"	},
-		{	"id": 2, "username": "Milan", "email": "milan@example.com", "password": "milan12345"	},
-		{	"id": 3, "username": "Brane", "email": "brane@example.com", "password": "brane12345"	},
+		{	"id": 1, "username": "Sinisa","email": "sinisa@example.com", "password": "sinisa12345" },
+		{	"id": 2, "username": "Milan", "email": "milan@example.com", "password": "milan12345" },
+		{	"id": 3, "username": "Brane", "email": "brane@example.com", "password": "brane12345" },
 		{	"id": 4, "username": "Zora", "email": "zora@example.com", "password": "zora12345"	},
-		{	"id": 5, "username": "Djordje", "email": "djordje@example.com", "password": "djordje12345"	},
-		{	"id": 6, "username": "Petar", "email": "petar@example.com", "password": "petar12345"	},
+		{	"id": 5, "username": "Djordje", "email": "djordje@example.com", "password": "djordje12345" },
+		{	"id": 6, "username": "Petar", "email": "petar@example.com", "password": "petar12345" },
 		{	"id": 7, "username": "John", "email": "john@example.com", "password": "john12345"	},
 		{	"id": 8, "username": "Serena", "email": "serena@example.com", "password": "serena12345"	},
 		{	"id": 9, "username": "Smith", "email": "smith@example.com", "password": "smith12345"	}
@@ -19,25 +19,25 @@
 			{ "productID": 5, "productName": "AMD Ryzen 5", "productValidFrom": "13/05/2019", "quantity": 17, "price": 85000 }
 		]},
 		{	"categoryID": 2, "categoryName": "Graficke kartice", "categoryValidFrom": "16/07/2019", "products": [
-			{ "productID": 6, "productName": "GeForce GTX1050", "productValidFrom": "13/05/2019", "quantity": 10, "price": 40000	},
+			{ "productID": 6, "productName": "GeForce GTX1050", "productValidFrom": "13/05/2019", "quantity": 10, "price": 40000 },
 			{ "productID": 7, "productName": "GeForce GTX1050 Ti", "productValidFrom": "23/11/2019", "quantity": 10, "price": 50000	},
 			{ "productID": 8, "productName": "AMD Radeon RX VEGA 56", "productValidFrom": "13/05/2019", "quantity": 7, "price": 56000	},
 			{ "productID": 9, "productName": "AMD Radeon RX 590", "productValidFrom": "21/06/2019", "quantity": 4, "price": 88000	},
 			{ "productID": 10,  "productName": "GeForce RTX2080", "productValidFrom": "13/05/2019", "quantity": 3, "price": 120000 }
 		] },
 		{	"categoryID": 3, "categoryName": "Monitori", "categoryValidFrom": "01/04/2019", "products": [
-			{ "productID": 11, "category_id": 3,  "productName": "LG 27U", "productValidFrom": "23/06/2019", "quantity": 6, "price": 76500	},
-			{ "productID": 12, "category_id": 3,  "productName": "HP Envy", "productValidFrom": "27/09/2019", "quantity": 7, "price": 110000	},
-			{ "productID": 13, "category_id": 3,  "productName": "Lenovo P32", "productValidFrom": "26/08/2019", "quantity": 13, "price": 138600 },
-			{ "productID": 14, "category_id": 3,  "productName": "Asus PG348", "productValidFrom": "22/09/2019", "quantity": 15, "price": 142990 },
-			{ "productID": 15, "category_id": 3,  "productName": "BenQ PV32", "productValidFrom": "21/11/2019", "quantity": 10, "price": 145990	}
+			{ "productID": 11, "category_id": 3, "productName": "LG 27U", "productValidFrom": "23/06/2019", "quantity": 6, "price": 76500 },
+			{ "productID": 12, "category_id": 3, "productName": "HP Envy", "productValidFrom": "27/09/2019", "quantity": 7, "price": 110000 },
+			{ "productID": 13, "category_id": 3, "productName": "Lenovo P32", "productValidFrom": "26/08/2019", "quantity": 13, "price": 138600 },
+			{ "productID": 14, "category_id": 3, "productName": "Asus PG348", "productValidFrom": "22/09/2019", "quantity": 15, "price": 142990 },
+			{ "productID": 15, "category_id": 3, "productName": "BenQ PV32", "productValidFrom": "21/11/2019", "quantity": 10, "price": 145990	}
 		]},
 		{	"categoryID": 4, "categoryName": "Slusalice", "categoryValidFrom": "20/12/2019", "products": [
-			{ "productID": 16, "category_id": 4,  "productName": "HyperX Cloud", "productValidFrom": "18/06/2019", "quantity": 45, "price": 25000	},
-			{ "productID": 17, "category_id": 4,  "productName": "Sony WH-H900", "productValidFrom": "29/11/2019", "quantity": 40, "price": 32000	},
-			{ "productID": 18, "category_id": 4,  "productName": "Audio-technica", "productValidFrom": "28/12/2019", "quantity": 30, "price": 41000	},
-			{ "productID": 19, "category_id": 4,  "productName": "AKG N90Q", "productValidFrom": "1712/2019", "quantity": 4, "price": 147990 },
-			{ "productID": 20, "category_id": 4,  "productName": "Sony MDZR1R", "productValidFrom": "19/05/2019", "quantity": 3, "price": 300000 }
+			{ "productID": 16, "category_id": 4, "productName": "HyperX Cloud", "productValidFrom": "18/06/2019", "quantity": 45, "price": 25000	},
+			{ "productID": 17, "category_id": 4, "productName": "Sony WH-H900", "productValidFrom": "29/11/2019", "quantity": 40, "price": 32000	},
+			{ "productID": 18, "category_id": 4, "productName": "Audio-technica", "productValidFrom": "28/12/2019", "quantity": 30, "price": 41000	},
+			{ "productID": 19, "category_id": 4, "productName": "AKG N90Q", "productValidFrom": "1712/2019", "quantity": 4, "price": 147990 },
+			{ "productID": 20, "category_id": 4, "productName": "Sony MDZR1R", "productValidFrom": "19/05/2019", "quantity": 3, "price": 300000 }
 		] }
 	]
 
